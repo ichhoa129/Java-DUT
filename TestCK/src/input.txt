@@ -1,0 +1,5 @@
+HV12345678NguyenVanA                                        25/12/1990Nam10.0
+HV12345378NguyenVanB                                        24/12/1990Nu 9.0
+HV12343678NguyenVanC                                        23/12/1990Nam 9.5
+HV12365678NguyenVanD                                        22/12/1990Nu 8.0
+HV12323678NguyenVanF                                        21/12/1990Nam10.0

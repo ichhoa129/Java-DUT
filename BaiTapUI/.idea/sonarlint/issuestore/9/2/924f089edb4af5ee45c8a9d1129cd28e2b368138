@@ -1,0 +1,47 @@
+
+E
+java:S2387
+"*"title" is the name of a field in "Frame".(Þù®õÿÿÿÿÿ
+C
+java:S1659
+"(Declare "inputLabel" on a separate line.(Þù®õÿÿÿÿÿ
+D
+java:S1659
+")Declare "binaryLabel" on a separate line.(Þù®õÿÿÿÿÿ
+A
+java:S1659
+"&Declare "octLabel" on a separate line.(Þù®õÿÿÿÿÿ
+A
+java:S1659
+"&Declare "hexLabel" on a separate line.(Þù®õÿÿÿÿÿ
+@
+java:S1659"%Declare "binaryT" on a separate line.(€êÕºþÿÿÿÿ
+=
+java:S1659""Declare "octT" on a separate line.(€êÕºþÿÿÿÿ
+=
+java:S1659""Declare "hexT" on a separate line.(€êÕºþÿÿÿÿ
+<
+java:S1659"&Declare "resetBtn" on a separate line.(÷Íó¶
+;
+java:S1659"%Declare "exitBtn" on a separate line.(÷Íó¶
+8
+java:S1659""Declare "head" on a separate line.(ÈÛ ‰
+8
+java:S1659""Declare "body" on a separate line.(ÈÛ ‰
+:
+java:S1659"$Declare "footer" on a separate line.(ÈÛ ‰
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜäþÎøÿÿÿÿ
+K
+java:S1854d"5Remove this useless assignment to local variable "b".(¥”¿¬
+<
+java:S1481d"&Remove this unused "b" local variable.(¥”¿¬
+K
+java:S1854l"5Remove this useless assignment to local variable "b".(¥”¿¬
+<
+java:S1481l"&Remove this unused "b" local variable.(¥”¿¬
+|
+java:S1488e"aImmediately return this expression instead of assigning it to the temporary variable "octString".(ÑÎý˜þÿÿÿÿ
+w
+java:S1488n"aImmediately return this expression instead of assigning it to the temporary variable "hexString".(Ï¤ã…
+0
+java:S1220""Move this file to a named package.

@@ -1,0 +1,13 @@
+* Luồng hướng byte: mỗi ký tự tương ứng 1 Byte = 8 bit
+	+ InputStream/ OutputStream
+* Luồng hướng Char: Mỗi ký tự tương ứng 2 Byte = 16 bit
+	+ Reader/writer
+* I/O threads
+ 	+ System.out
+	+ System.in
+	+ System.err 
+
+steps to read data from file
+* System.in -> create input stream (InputStreamReader)
+* Create BufferedReader
+* assign data from BufferedReader to variables

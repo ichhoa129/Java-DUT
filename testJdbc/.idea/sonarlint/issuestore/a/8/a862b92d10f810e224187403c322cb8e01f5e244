@@ -1,0 +1,12 @@
+
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8¾„Ð‘¸/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ì×¸ùÿÿÿÿ8À„Ð‘¸/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çœŠ…þÿÿÿÿ8Á„Ð‘¸/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ðœ³‚8½²Ð‘¸/
+0
+java:S1220""Move this file to a named package.
+d
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(ìï‡Àûÿÿÿÿ8Î²Ð‘¸/
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8Î²Ð‘¸/

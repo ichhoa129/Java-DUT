@@ -1,0 +1,19 @@
+
+_
+java:S3252&"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+—
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ø ¥
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ø ¥
+J
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8‡Àß¸/
+>
+java:S1604/"(Make this anonymous inner class a lambda(ÙÒí¼
+C
+java:S16049"(Make this anonymous inner class a lambda(Öä©üÿÿÿÿ
+=
+java:S1604A"(Make this anonymous inner class a lambda(ò¢ƒF
+>
+java:S1604I"(Make this anonymous inner class a lambda(¾œÈØ
+0
+java:S1220""Move this file to a named package.

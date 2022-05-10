@@ -1,0 +1,42 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ì×¸ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(¶‡ø8Ÿ¼Á¸/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(î©÷8òİİÁ¸/
+2
+java:S3626‹"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626’"Remove this redundant jump.(ÉŠ©ƒ
+Q	java:S125j"<This block of commented-out lines of code should be removed.(ƒ°Œ†
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¢±õıúÿÿÿÿ8ºáÂ¸/
+b
+java:S1192Š"FDefine a constant instead of duplicating this literal "Dong " 3 times.(ÕÑÙáûÿÿÿÿ
+s	java:S135y"YReduce the total number of break and continue statements in this loop to use at most one.(çÃÀöşÿÿÿÿ
+P
+java:S1141z"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ï‡
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂİÃşÿÿÿÿ
+k	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆùÙ˜ûÿÿÿÿ
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â­Şúÿÿÿÿ
+k	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²—»Ìıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àìÈ£ıÿÿÿÿ
+7
+java:S1643["Use a StringBuilder instead.(çµ˜òÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+d
+java:S2259O"BA "NullPointerException" could be thrown; "conn" is nullable here.(…¤© ÿÿÿÿÿ8íÛÂ¸/
+_
+java:S2259E"BA "NullPointerException" could be thrown; "conn" is nullable here.(Æ‹ïú8ş¬Â¸/
+l
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8ş¬Â¸/
+b
+java:S2095 "LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ûç¶ì
+g
+java:S20954"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(İÆïŞüÿÿÿÿ
+b
+java:S2095`"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(„Á×

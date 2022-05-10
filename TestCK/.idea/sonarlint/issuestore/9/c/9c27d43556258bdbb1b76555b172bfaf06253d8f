@@ -1,0 +1,17 @@
+
+n	java:S116"TRename this field "MaHocVien" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‚äÉøÿÿÿÿ
+o	java:S116	"URename this field "TenHocVien" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸±›ñşÿÿÿÿ
+h	java:S116
+"SRename this field "NgaySinh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¸Õï
+h	java:S116"SRename this field "GioiTinh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷˜ä
+g	java:S116"RRename this field "DiemThi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‹“ù
+7
+java:S1170"!Make this final field static too.(Ïüí
+–
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øş±,
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(÷Œá¼8¼ıËÁ¸/
+K
+java:S1068".Remove this unused "dateFormat" private field.(Ïüí8À¸Ê»¸/
+0
+java:S1220""Move this file to a named package.

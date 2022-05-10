@@ -1,0 +1,38 @@
+Lap trinh da luong
+
+- Voi Java ta co the xay dung cac chuong trinh da luong
+- Mot ung dung co the bao gom nhieu luong, moi luong duoc gan cong viec cu the va duoc thuc thi dong thoi voi cac luong khac
+- Java cung cap hai giai phap tao lap luong:
+    + Thiet lap lop con cua Thread ( extends )
+    + Cai dat lop xu ly luong tu interface Runnable ( immplement )
+
+
+- Cach 1 ( extends)
+
+Tao ra mot lop ke thua tu lop Thread va ghi de method run cua class Thread
+
+class MyClass extends Thread
+{
+    // some properties
+    public void run()
+    {
+        // statement need to be run on the thread
+    }
+    // some other overridden methods
+}
+
+Khi chtrinh chay no se chay ham start() trong Thread de bat dau mot luong da duoc tao ra
+DO NOT CALL RUN() METHOD
+
+- CACH 2 ( implement)
+
+class MyClass implements Runnable
+{
+    public void run()
+    {
+
+    }
+}
+
+Thread dt1 = new Thread(new MyClass());
+dt1.start()
